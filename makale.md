@@ -110,7 +110,7 @@ A web-server called Spial (specificity in alignments) <sup>**16**</sup> was used
 ## Phylogenetic analysis
 The Maximum likelihood phylogenetic analysis and sequence homology clustering reveal two supergroup of Frizzled proteins in the presence of SMO outgroup. FZD3, FZD6 cluster and another cluster of FZDs that contains 3 different subclades: FZD1, FZD2, FZD7; FZD4, FZD9, FZD10 and FZD5, FZD8. (**Figure 2**).
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/tree.png)|
+| ![](/png/tree.png)|
 |:--:|
 | **Figure 2: Phylogenetic analysis and homology clustering of frizzled receptors gene family**|
 | *This analysis involved 1202 amino acid sequences of 10 frizzled receptor genes in whole eukaryotic lineage. The sequences inferred by Maximum likelihood method were selected by CD-HIT algorithm (with the clustering threshold of 90% identity) as representatives. The outgroup SMO was indicated by red branches and nodes, while FZD4,FZD9,FZD10 clade is shown by blue. Colored labels are implied human sequences (**a**). Sequence homology clustering of only human Frizzled receptors gene family reveals the same clusters. FZD4,FZD9,FZD10 clade is clearly distinguishable in blue frame. The legend indicates the similarity range: "0" means completely similar whereas "1" means completely different.  (**b**).*|
@@ -120,7 +120,7 @@ The tree obtained with phylogenetic analysis is advocated that the eukaryotic li
 ## The Subfamily Specific Residues
 SPIAL (Specifity in alignments) analysis has revealed the possible subfamily specific residues among the members of Human FZD4, FZD9 and FZD10 clade. We identified a region with 10 specific residues on the Human FZD4 extracellular cysteine-rich domain (CRD; aa 40-161) that are clustered prominently different from the other members of this clade (**Figure 3**).
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/figure2.png)|
+| ![](/png/figure2.png)|
 |:--:|
 | **Figure 3: Subfamily Specific Residues of the members of FZD4, FZD9, and FZD10 clade** |
 |*Human FZD4, FZD9, and FZD10 receptors and the specific residues through their domains within the secondary structures were shown with lollipop graphs. While lollipops are representing the specific residues for each receptor, CRD domains and the secondary structures were indicated by different colors (**a**). On the right-hand side, the receptors were shown in 3D structures with their CRDs (**b**). The same colors were used in 3D visuals to imply the sub-structures that were shown on the left-hand side, whereas the linker region -the sequence located between the CRD and the TM1- is shown with purple. The gray-colored beads were used to signify the specific residues.*|
@@ -139,14 +139,14 @@ SPIAL (Specifity in alignments) analysis has revealed the possible subfamily spe
 
 
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/FZD4_norrin_dimer.png)|
+| ![](/png/FZD4_norrin_dimer.png)|
 |:--:|
 | **Figure 4:** 3D visual of Norrin in Complex with Human FZD4-CRD |
 | *FZD4-CRD is shown with brushed yellow whereas Norrin is shown with blue. The subfamily specific residues that were located on Norrin-FZD4 CRD binding region are represented as beads. LYS109 and MET157 were reported as Norrin-FZD4 binding sites. Disulphide bridges were shown in yellow licorice.*|
 
 ### WNTs
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/FZD-WNT_interactions.png)|
+| ![](/png/FZD-WNT_interactions.png)|
 |:--:|
 | **Figure 5:** Frizzled receptors and WNT interactions|
 |*ABCDEFGH*|
@@ -162,7 +162,7 @@ SPIAL (Specifity in alignments) analysis has revealed the possible subfamily spe
 ### TM6 and ECL3
 
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/structural_comparison.png)|
+| ![](/png/structural_comparison.png)|
 |:--:|
 | **Figure 7:** Structural Comparison of Human FZD4, FZD9 and FZD10|
 |*ABCDEFGH*|
@@ -220,19 +220,19 @@ Mol Cell Biol, 2018. **19**(10): p. 638-653.](https://www.nature.com/articles/s4
 
 # SUPPLEMENTARY DATA
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/FZDs_CRD_human_MSA.png)|
+| ![](/png/FZDs_CRD_human_MSA.png)|
 |:--:|
 | **Figure S1: Multiple sequence alignments of Human Frizzled Receptors** |
 |*The clade of FZD4, FZD9, and FZD10 is highlighted with green throughout the whole Frizzled receptor family members in humans. The specific residues are shown as bold letters, whereas the vertical residue numbers correspond to FZD4 specific residues. Cysteine residues are colored yellow while pairs of cysteines are labeled per a bridge by low case characters in the residue numeration line (disulfide bridges). N-glycosylation sites are marked with red.*|
 
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/FZDs_linker_human_MSA.png)|
+| ![](/png/FZDs_linker_human_MSA.png)|
 |:--:|
 | **Figure S2:** linker region |
 |*ABCDEFGH*|
 
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/FZDs_human_MSA_TM6-ECL3-TM7.png)|
+| ![](/png/FZDs_human_MSA_TM6-ECL3-TM7.png)|
 |:--:|
 | **Figure S3:** TM6+EC3 sequence |
 |*The specific residues on the FZD4,FZD9,and FZD10 clade are shown as bold letters. Cysteine residues are colored yellow while N-glycosylation site is marked with red. Transmembrane domains and Extracellular loop were shown with different colors.*|
@@ -244,7 +244,7 @@ Mol Cell Biol, 2018. **19**(10): p. 638-653.](https://www.nature.com/articles/s4
 |*ABCDEFGH*|
 
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/fzd_domains.png)|
+| ![](/png/fzd_domains.png)|
 |:--:|
 | **Table S1:The residue ranges of domains and regions for the members of FZD4, FZD9, and FZD10 clade**|
 |*ABCDEFGH*|
