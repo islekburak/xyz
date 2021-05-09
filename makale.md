@@ -68,7 +68,7 @@ The Frizzled/SMO family of GPCRs is characterized by the long cysteine-rich doma
 ### Frizzleds in Cell Signaling
 Regarding to the existence of β-catenin, Frizzleds can be considered to include in the following two pathways: Canonical and non-canonical WNT signaling. In canonical WNT pathway, signaling can be occured via stimulation by agonist (WNT) or not. Likewise, non-canonical WNT signaling consists of two different pathways: Planar Cell Polarity (PCP), and FZD/Ca<sup>2+</sup> signalings.
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/pathway.png)|
+| ![](/png/pathway.png)|
 |:--:|
 | **Figure 1: Schematic Representation of Canonical WNT Signaling** |
 The core components of WNT/β-catenin pathway are Frizzled receptors and low-density lipoprotein receptor-related proteins 5 or 6 (LRP5/6) coreceptors. Upon the agonist (WNT) stimulation from the outer membrane, Dishevelled (DVL) protein is activated via signaling through Frizzled and LRP5/6. Dsh inhibits and heads to disassembly of the β-catenin destruction complex that is composed of Axin, adenomatosis polysis coli (APC), casein kinase 1α (CK1α), and glycogen synthase kinase 3β (GSK3-β). Thus β-catenin can not be phosphorylated and targeted to proteasome for degradation. Consequently, unphosphorylated β-catenins translocate into nucleus to bind T-cell factor/Lymphoid enhancer factor (TCF/LEF) transcription factors and induce the signaling cascade via transcription trigger **(Figure 1, left)**.
