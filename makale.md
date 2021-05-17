@@ -63,7 +63,7 @@ The Frizzled/SMO family of GPCRs is characterized by the long cysteine-rich doma
 ### Frizzleds in Cell Signaling
 Regarding to the existence of β-catenin, Frizzleds can be considered to include in the following two pathways: Canonical and non-canonical WNT signaling. In canonical WNT pathway, signaling can be occured via stimulation by agonist (WNT) or not. Likewise, non-canonical WNT signaling consists of two different pathways: Planar Cell Polarity (PCP), and FZD/Ca<sup>2+</sup> signalings.
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/pathway.png)|
+| ![](/png/pathway.png)|
 |:--:|
 | **Figure 1: Schematic Representation of Canonical WNT Signaling** |
 The core components of WNT/β-catenin pathway are Frizzled receptors and low-density lipoprotein receptor-related proteins 5 or 6 (LRP5/6) coreceptors. Upon the agonist (WNT) stimulation from the outer membrane, Dishevelled (DVL) protein is activated via signaling through Frizzled and LRP5/6. Dsh inhibits and heads to disassembly of the β-catenin destruction complex that is composed of Axin, adenomatosis polysis coli (APC), casein kinase 1α (CK1α), and glycogen synthase kinase 3β (GSK3-β). Thus β-catenin can not be phosphorylated and targeted to proteasome for degradation. Consequently, unphosphorylated β-catenins translocate into nucleus to bind T-cell factor/Lymphoid enhancer factor (TCF/LEF) transcription factors and induce the signaling cascade via transcription trigger **(Figure 1, left)**.
@@ -105,7 +105,7 @@ A web-server called Spial (specificity in alignments) <sup>**16**</sup> was used
 ## Phylogenetic analysis
 The Maximum likelihood phylogenetic analysis and sequence homology clustering reveal two supergroup of Frizzled proteins in the presence of SMO outgroup. FZD3/6 cluster and another cluster of FZDs that contains 3 different subclades: FZD1/2/7, FZD4/9/10 and FZD5/8. (**Figure 2**).
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/tree.png)|
+| ![](/png/tree.png)|
 |:--:|
 | **Figure 2: Phylogenetic analysis and homology clustering of frizzled receptors gene family**|
 | *This analysis involved 1202 amino acid sequences of 10 frizzled receptor genes in whole eukaryotic lineage. The sequences inferred by Maximum likelihood method were selected by CD-HIT algorithm (with the clustering threshold of 90% identity) as representatives. The outgroup SMO was indicated by red branches and nodes, while FZD4/9/10 clade is shown by blue. Colored labels are implied human sequences (**a**). Sequence homology clustering of only human Frizzled receptors gene family reveals the same clusters. FZD4/9/10 clade is clearly distinguishable in blue frame. The legend indicates the similarity range: "0" means completely similar whereas "1" means completely different.  (**b**).*|
@@ -115,7 +115,7 @@ The evolutionary tree obtained with phylogenetic analysis advocates that the euk
 ## The Subfamily Specific Residues
 SPIAL (Specifity in alignments) analysis has revealed the possible subfamily specific residues among the members of Human FZD4/9/10 clade. We identified a region with 10 specific residues on the Human FZD4 extracellular cysteine-rich domain (CRD; aa 40-161) that are clustered prominently different from the other members of this clade (**Figure 3**). These residues are mostly clustered near the disulphide bridges (**Supplemental Figure S1**). On the other hand, we observed that N144 is specific for FZD4 which occurs as N-acetylation site in the squence. It is known that disulfide bonds and N-acetylation sites stabilize the folded structures of proteins. Thus, possible mutations on these sites may affect correct protein folding and moreover may be responsible from the dimerization type of FZD4.
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/figure2.png)|
+| ![](/png/figure2.png)|
 |:--:|
 | **Figure 3: Subfamily Specific Residues of the members of FZD4/9/10 clade** |
 |*Human FZD4, FZD9, and FZD10 receptors and the specific residues through their domains within the secondary structures were shown with lollipop graphs. While lollipops are representing the specific residues for each receptor, CRD domains and the secondary structures were indicated by different colors (**a**). On the right-hand side, the receptors were shown in 3D structures with their CRDs. The same colors were used in 3D visuals to imply the sub-structures that were shown on the left-hand side, whereas the linker region -the sequence located between the CRD and the TM1- is shown with purple. The gray-colored beads were used to signify the specific residues(**b**).*|
@@ -131,7 +131,7 @@ In order to investigate possible individuality and specificity of WNT-FZD combin
 According to reports published Wnt2 can be an important ligand for FZD5 receptor <sup>**D7**</sup> whereas some information indicates FZD4 and FZD5 can interact with Wnt-10b, especially in MCF-7 adhesion cells <sup>**D19**</sup>. 
 
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/FZD-WNT_interactions.png)|
+| ![](/png/FZD-WNT_interactions.png)|
 |:--:|
 | **Figure 4: The overview of Frizzled receptors-WNT interactions**|
 |*The possible combinations between WNTs and Frizzled receptors were examined by several studies. This schematic representation provides WNTs and FZDs that were distributed as a reference to their guide trees which were positioned on the top and the left. The outlier member SMO has been dislocated from the guide tree on the left side. The WNTs (orange) which have been reported into the interaction with FZDs were labeled as **reviewed** whereas the others (blue) were labeled as **unreviewed**.*|
@@ -140,7 +140,7 @@ In summary, the data suggests that FZD4 is able to involved in both canonical an
 
 FZD4 is known for the ability of binding both WNTs and Norrin. Yet, the ligand selectivity of FZD4 remains poorly understood. Due to there is still a lack of structural information for WNTs, we structurally aligned FZD8/CRD in complex with XWNT-8 (PDB ID:4F0A) onto the region of FZD4/CRD to explore the residues that would be able to responsible for the FZD4 ligand selection (**Figure 5**). XWNT-8 exhibits two-point attachment on FZD8/CRD through its thumb and index finger . We demonstrated these regions on FZD4/CRD monomer obtained from FZD4/CRD homodimer structure (PDB ID: 5UWG) (**Figure 5a**). On the other hand, upon stimulation by WNT ligands, it has been shown that FZD4/CRD can dimerize. Surprisingly we detected a specific residue (L132) which is located on the FZD4/CRD dimeric interface (**Figure 5b**). Aside from these findings, we also focused on the possible binding site of human FZD4 and FZD4 specific ligand-Norrin. The human FZD4/CRDs combined with Norrin homodimer was obtained from the complex structure (PDB ID: 5CL1) and the specific residues were signified on 3D structure (**Figure 5c**).
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/overview.png)|
+| ![](/png/overview.png)|
 |:--:|
 |**Figure 5: The Specific Residues on the possible interaction site of WNT, Norrin and FZD4/CRD**|
 | *CRD was shown with brushed yellow, Norrin was shown with blue, XWNT-8 was shown with ice blue. The marked residues were shown in boxes indicate the specific resiudes on FZD4/CRD (green beads for Norrin binding region, and red beads for WNT binding region respectively) which are located on the possibble interaction site of FZD/CRD and WNT ligands (**a**). FZD4/CRD dimer structure stimulated by WNT ligand (PDB ID:5UWG) was shown with the specific residues that we found on FZD4/CRD (**b**) Norrin homodimer-FZD4/CRD combination (PDB ID: 5CL1) was inferred with available marked residues on the hypothetical FZD4/CRD interaction site (**c**). Gray beads represent the other specific residues we found on FZD4/CRD.*|
@@ -151,7 +151,7 @@ Since FZD4 is the only protein that can bind Norrin ligands in Frizzled receptor
 
 Even though there is still a lack of knowledge about the trigger mechanism of dimerization, it is previously shown that FZD4 receptors are able to construct a dimer structure within CRD domains to activate cell signaling and biological functions <sup>**9**</sup>. Hence, we examined the specific residues that we found on FZD4/CRD region on dimeric 3D structure of human FZD4 CRD in complex with human Norrin ligands (PDB ID:5BQC). We recognized that 4 of 10 marked residues were positioned on the interaction site of human Norrin and human FZD4/CRD. In the consideration of LYS109 and MET157 were reported <sup>**18**</sup> as binding sites of Norrin and FZD4/CRD before, we supposed that HIS156 and GLY161 also play a selective role in Norrin binding for human FZD4. Besides, some mutations (M105V and M157V) on FZD4/CRD have been associated with Familial Exudative Vitreoretinopathy (FEVR) <sup>**19**</sup> in the previously performed disease-related studies. These pieces of evidence suggest that these residues could be individual for FZD4 to selecting to bind Norrin ligands.
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/FZD4_norrin_dimer.png)|
+| ![](/png/FZD4_norrin_dimer.png)|
 |:--:|
 |**Figure 6: 3D visual of Norrin in Complex with Human FZD4/CRD**|
 | *FZD4/CRD was shown with brushed yellow whereas Norrin was shown with blue. The schematic representation of Norrin bound FZD4/CRD (**a**) was depicted in 3D visual on the right-hand side. The subfamily-specific residues located on Norrin-FZD4/CRD binding region were represented as beads. LYS109, HIS156, MET157, and GLY161 were colored in green and the other marked residues on FZD4/CRD were represented as gray beads. Colorless part of 3D Norrin-FZD4/CRD represents the other biological unit of dimer structure(**b**) .*|
@@ -170,7 +170,7 @@ In the xSMO cyclopamine-bound CRD structure, the E and F rings of cyclopamine, w
 
 
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/structural_comparison.png)|
+| ![](/png/structural_comparison.png)|
 |:--:|
 | **Figure 7:** Structural Comparison of Human FZD4, FZD9 and FZD10|
 |*This figure clearly shows that FZD4 has a truncated TM6 domain compared to FZD9 and FZD10. Disulfide bridges were shown with yellow, the linker region colored in magenta, TM6 domains represented with blue, and extracellular loop 3 demonstrated in orange. 3 extra disulfide bonds which FZD4 has were labeled by residue numbers.*|
@@ -279,25 +279,25 @@ Mol Cell Biol, 2018. **19**(10): p. 638-653.](https://www.nature.com/articles/s4
 
 # SUPPLEMENTARY DATA
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/FZDs_CRD_human_MSA.png)|
+| ![](/png/FZDs_CRD_human_MSA.png)|
 |:--:|
 | **Figure S1: Multiple sequence alignments of Human Frizzled CRDs** |
 |*The clade of FZD4/9/10 is highlighted with green throughout the whole Frizzled receptor family members in humans. The specific residues are shown as bold letters, whereas the vertical residue numbers correspond to FZD4 specific residues. Cysteine residues are colored yellow while pairs of cysteines are labeled per a bridge by low case characters in the residue numeration line (disulfide bridges). N-glycosylation sites are marked with red.*|
 
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/FZDs_linker_human_MSA.png)|
+| ![](/png/FZDs_linker_human_MSA.png)|
 |:--:|
 | **Figure S2: Multiple sequence alignments of Human Frizzled linker regions** |
 |*The linker region positioned between CRD and TM1 for all Frizzled receptors was sequenced and aligned. N-glycosylation sites were indicated with red, while the specific residues marked as bold and vertical amino acid position. Disulfide bond C181-C200 was inferred with lowercase "k". To get a clear aspect, twenty five residues of the human FZD8 are disregarded and showed as "<25>".*|
 
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/FZDs_human_MSA_TM6-ECL3-TM7.png)|
+| ![](/png/FZDs_human_MSA_TM6-ECL3-TM7.png)|
 |:--:|
 | **Figure S3: Multiple sequence alignments of Human Frizzled TM6-ECL3-TM7 regions**|
 |*The specific residues on the FZD4/9/10 clade are shown as bold letters. Cysteine residues are colored yellow while N-glycosylation site is marked with red. Transmembrane domains and Extracellular loop were shown with different colors.*|
 
 
-| ![](/home/islekburak/Desktop/toplantı/makale/src/yeni/png/fzd_domains.png)|
+| ![](/png/fzd_domains.png)|
 |:--:|
 | **Table S1:The Residues of the Human FZD4/9/10 Clade Receptors**|
 |*The data is retrieved from GpcrDB and Uniprot respectively*|
